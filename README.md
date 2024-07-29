@@ -16,6 +16,7 @@
 <h1>Contact Information</h1>
 <p>Tel. +233570779682</p>
 <p>Email. P.blaqdavid@gmail.com</p>
+<p font-family: bold;>you can also contact the lead program through other social media handles as below</p>
 
 </body>
 </html>
