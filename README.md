@@ -12,6 +12,7 @@
   <title>Contact Information</title>
 </head>
 <body>
+<p>Assistant director: mandybrown</p>
 
 <h1>Contact Information</h1>
 <p>Tel. +233570779682</p>
