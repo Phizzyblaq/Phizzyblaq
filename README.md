@@ -13,7 +13,7 @@
 <p>Email. P.blaqdavid@gmail.com</p>
 <p font-family: bold;>you can also contact the lead program through other social media handles as below</p>
 <p><src img="https//:halfmoon.jpg.com</p>
-<p "font-family:times new roman;">phizzyblaq is ready to fit in as faster as possible</p>
+<p font-family:times new roman;>phizzyblaq is ready to fit in as faster as possible</p>
 
 </body>
 </html>
