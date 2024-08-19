@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Phizzyblaq
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 - 
 <!DOCTYPE html>
 <html>
@@ -19,10 +13,7 @@
 <p>Email. P.blaqdavid@gmail.com</p>
 <p font-family: bold;>you can also contact the lead program through other social media handles as below</p>
 <p><src img="https//:halfmoon.jpg.com</p>
+<p "font-family:times new roman;">phizzyblaq is ready to fit in as faster as possible</p>
 
 </body>
 </html>
-<
-Phizzyblaq/Phizzyblaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
